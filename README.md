@@ -1,1 +1,1 @@
-# claim-model
+# A UML Claim model with PlantUML
